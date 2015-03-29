@@ -1,0 +1,7 @@
+PROJECT_NAME   = "Simple Backup"
+PROJECT_BRIEF  = "Never lose your data again."
+GENERATE_LATEX = NO
+HAVE_DOT       = YES
+UML_LOOK       = YES
+IMAGE_PATH     = "."
+HTML_OUTPUT = "../doc"
